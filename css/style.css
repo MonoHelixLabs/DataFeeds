@@ -1,0 +1,154 @@
+body {
+  padding-top: 50px;
+  font-family: "Work sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.home-block {
+	overflow: hidden;
+    position: relative;
+    width: 100%;
+    padding: 60px 30px;
+    color: #ffffff;
+    background-color: #00cccc;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.about-block {
+    overflow: hidden;
+	position: relative;
+    width: 100%;
+    padding-top: 60px;
+    padding-right: 30px;
+    padding-left: 30px;
+    color: inherit;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.usecase1-block {
+	overflow: hidden;
+    position: relative;
+    width: 100%;
+    padding: 60px 30px;
+    color: #000000;
+    background-color: #ccc;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.usecase2-block {
+	overflow: hidden;
+    position: relative;
+    width: 100%;
+    padding: 60px 30px;
+    color: #000000;
+    background-color: #f9f9f7;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.usecase3-block {
+	overflow: hidden;
+    position: relative;
+    width: 100%;
+    padding: 60px 30px;
+    color: #000000;
+    background-color: #ffffff;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.steps-block {
+	overflow: hidden;
+	position: relative;
+    width: 100%;
+    padding: 60px 30px;
+    color: inherit;
+    background-color: #ccc;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.pricing-block {
+	overflow: hidden;
+	position: relative;
+    width: 100%;
+    padding: 60px 30px;
+    color: inherit;
+    background-color: #EEE;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.aboutus-block {
+	overflow: hidden;
+    position: relative;
+    width: 100%;
+    padding: 60px 30px;
+    color: #000000;
+    background-color: #ffffff;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.contact-block {
+	overflow: hidden;
+	position: relative;
+    width: 100%;
+    padding: 60px 30px;
+    color: #ffffff;
+    background-color: #333;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: left;
+}
+
+.navstyle {
+	float: right !important;
+}
+
+.navbar-inverse {
+    background-color: #00CCCC;
+    border-color: #00CCCC;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #ffffff;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #ffffff;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #ffffff;
+    background-color: #00CCCC;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #00CCCC;
+}
+
+.grey-font {
+	color: #868686;
+}
+
+.light-grey-font {
+	color: #DCDCDC;
+}
